@@ -20,7 +20,7 @@ public class Pais {
 		this.nombre = nombre;
 	}
 	
-	public void añadirFabrica(Fabricante i) {
+	public void anadirFabrica(Fabricante i) {
 		fabricasPorPais.add(i);
 	}
 	
