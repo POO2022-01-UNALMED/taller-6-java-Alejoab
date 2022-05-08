@@ -1,4 +1,4 @@
-package automoviles;
+package vehiculos;
 
 import java.util.ArrayList;
 
